@@ -1,0 +1,10 @@
+variables d Tailwind.
+
+Colores:
+
+*BRAND PRIMARY: #E88877 / red-400 (#f87171)
+*BRAND BG: #FFF9EB / yellow-50 (#fffbeb)
+*BRAND TERTIARY: #6D6858 / stone-500 (#78716c)
+*BRAND SECONDARY: #FDE74C / yellow-300 (#fcd34d)
+
+// PENDIENTE CREAR ESPACIO VIDEO HOME PRIMERA EXPERIENCIA {100vh}
