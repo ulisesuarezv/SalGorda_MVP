@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from '../../../components/header/Header'
-import haloliving from '../../../../assets/img/halo-interior5.jpeg'
+import haloliving from '../../../../assets/img/halo-interior4.jpeg'
 import barliving from '../../../../assets/img/bar-interior.png'
 
 const MainHome = () => {
@@ -23,7 +23,8 @@ const MainHome = () => {
             <div className="space-y-8">
               <div className="space-y-6">
                 <div>
-                  <h1 className="text-4xl font-bold text-stone-900 mb-4 tracking-tight">BAR SAL GORDA</h1>
+                  <h1 className="font-cinzel text-4xl font-bold text-stone-900 mb-4 tracking-tight">BAR SAL GORDA</h1>
+                  
                   <div className="w-24 h-1 bg-amber-400"></div>
                 </div>
 
